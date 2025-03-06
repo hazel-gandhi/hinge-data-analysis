@@ -1,0 +1,72 @@
+[
+    {
+        "id": 9,
+        "timestamp": "2025-02-02 16:31:58.655566",
+        "hinge_prompt": "I'm convinced that",
+        "hinge_prompt_answer": "Aliens are here, they are just waiting for the right time to take over",
+        "requested_feedback": "flagged"
+    },
+    {
+        "id": 2,
+        "timestamp": "2025-02-02 16:31:59.041873",
+        "hinge_prompt": "Unusual skills",
+        "hinge_prompt_answer": "Can balance a badminton racket for all eternity",
+        "requested_feedback": "If you want to add more, share a fun story about your badminton skills or how you learned this. What other unusual skills do you have?"
+    },
+    {
+        "id": 6,
+        "timestamp": "2025-02-02 16:31:59.061512",
+        "hinge_prompt": "My simple pleasures",
+        "hinge_prompt_answer": "Sitting on a jhoola in a park",
+        "requested_feedback": "Try adding more details about why you enjoy it, like a favorite memory. What's your ideal park setting?"
+    },
+    {
+        "id": 4,
+        "timestamp": "2025-02-08 17:49:51.417709",
+        "hinge_prompt": "A random fact I love is",
+        "hinge_prompt_answer": "Chicken tikka masala is the national dish of UK",
+        "requested_feedback": "If you want to add more, mention why you love chicken tikka masala or your favorite way to enjoy it!"
+    },
+    {
+        "id": 5,
+        "timestamp": "2025-02-08 17:50:09.667768",
+        "hinge_prompt": "A random fact I love is",
+        "hinge_prompt_answer": "Chicken tikka masala is the national dish of UK.",
+        "requested_feedback": "If you want to add more, consider sharing why you love this dish or ask about others' favorites!"
+    },
+    {
+        "id": 3,
+        "timestamp": "2025-02-21 06:49:25.09578",
+        "hinge_prompt": "I recently discovered that",
+        "hinge_prompt_answer": "There is a 2.5% chance the world will be hit by a larger aestroid in 2032",
+        "requested_feedback": "If you want to add more, share why this fact intrigued you or your thoughts on it!"
+    },
+    {
+        "id": 8,
+        "timestamp": "2025-02-21 06:50:35.053155",
+        "hinge_prompt": "I recently discovered that",
+        "hinge_prompt_answer": "There is a 2.5% chance the world will be hit by a large aestroid in 2032. So do that thing now that you have always wanted to do",
+        "requested_feedback": "If you want to add more, consider sharing what inspired this fact or asking others about their dreams."
+    },
+    {
+        "id": 1,
+        "timestamp": "2025-02-21 06:51:00.644703",
+        "hinge_prompt": "I recently discovered that",
+        "hinge_prompt_answer": "There is a 2.5% chance the world will be hit by a large aestroid in 2032.",
+        "requested_feedback": "If you want to add more, share why this fact fascinates you or ask others what they think about it."
+    },
+    {
+        "id": 7,
+        "timestamp": "2025-02-21 06:51:53.203375",
+        "hinge_prompt": "I go crazy for",
+        "hinge_prompt_answer": "Jhulas, Jhulas and oh, Jhulas",
+        "requested_feedback": "Add more context about why you love Jhulas; it invites discussion! What do you enjoy most about them?"
+    },
+    {
+        "id": 10,
+        "timestamp": "2025-02-23 07:53:16.716183",
+        "hinge_prompt": "I go crazy for",
+        "hinge_prompt_answer": "Jhulas, sunsets and anything that helps me hit my protein goal",
+        "requested_feedback": "If you want to add more, consider sharing why you love sunsets or Jhulas. What\u2019s your favorite protein-packed meal?"
+    }
+]

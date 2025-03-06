@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hinge Data</title>
+
+    <!-- Google fonts - consolidated -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://use.typekit.net/twn5dyr.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:wght@100;300;400;500;700;900&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap"
+        rel="stylesheet">
+
+    <style>
+        /* Base styles */
+        body {
+            margin: 0;
+            font-size: 20px;
+            font-family: 'loretta', serif;
+            text-rendering: optimizeLegibility;
+            background-color: #FBF5DD;
+        }
+
+        .content {
+            max-width: 700px;
+            margin: auto;
+        }
+
+        /* Typography */
+        h1 {
+            font-family: 'Poppins', serif;
+            font-weight: bold;
+            font-size: 2.3em;
+            line-height: 1.1;
+        }
+
+        h2 {
+            font-family: 'Poppins', sans-serif;
+            font-weight: bold;
+            font-size: 1.3em;
+            line-height: 1.2;
+        }
+
+        p {
+            line-height: 1.6;
+            margin: 0;
+            padding-bottom: 1.2em;
+        }
+
+        .subhead {
+            font-family: 'loretta', serif;
+            margin-bottom: 0.25em;
+        }
+
+        a {
+            color: #578E7E;
+        }
+
+        code {
+            font-family: 'Courier New', monospace;
+            background: #fffbaf;
+            font-size: 0.85em;
+        }
+
+        /* Layout elements */
+        .header {
+            padding: 1.5em 0;
+        }
+
+        .footer {
+            background: transparent;
+            text-align: center;
+            font-size: 0.8em;
+            margin-top: 4em;
+            padding: 4em 0;
+        }
+
+        /* Images and figures */
+        figure {
+            margin: 0;
+            padding-bottom: 1.2em;
+        }
+
+        figcaption {
+            font-family: Arial, sans-serif;
+            font-size: 0.8em;
+            text-align: center;
+            margin-top: 0.5em;
+            color: #666;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            max-width: 80%;
+            margin-top: 1.5em;
+            margin-bottom: 1.5em;
+        }
+
+        .hero-img {
+            display: block;
+            margin-top: 0.2em;
+            margin-bottom: 0.5em;
+        }
+
+        /* iframes & visualizations */
+        iframe {
+            border: none;
+            padding: 0;
+            margin: 0 0 1.2em 0;
+            display: block;
+            width: 100%;
+        }
+
+        /* Specific for ai2html iframe */
+        #ai2html-iframe {
+            width: 100%;
+            height: 500px;
+            min-height: 500px;
+        }
+
+        /* Font classes */
+        .aiText {
+            font-family: "freight-big-pro", serif;
+            font-weight: 300;
+            font-style: normal;
+        }
+
+        .aiText-mundial {
+            font-family: "Mundial", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .aiText-roboto {
+            font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        /* Responsive styles */
+        @media (max-width: 640px) {
+            body {
+                font-size: 18px;
+            }
+
+            .content {
+                padding-left: 0.5em;
+                padding-right: 0.5em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <div class="header">
+            <h1>Playing Around With My Friends' Hinge Data
+            </h1>
+            <p class="subhead">I crowdsourced Hinge data from 4 women and 4 men, and here's what I found
+            </p>
+        </div>
+        <figure>
+            <img src="images/new-hero-image.png" alt="Hero image" class="hero-img">
+            <figcaption>Analyzing Hinge Data
+            </figcaption>
+        </figure>
+
+        <div class="byline">
+            <p>By <a href="https://hazel-gandhi.github.io/my-website/">Hazel Gandhi</a></p>
+        </div>
+        <p>I have often heard my single male friends talk about how, when it comes to dating apps, women have it better
+            than men. They kept insisting that women are at an advatangeous position because they get a lot more likes
+            and matches, which increases their chance of meeting a good match.
+        </p>
+        <p>So, I decided to test this theory by analyzing the Hinge data of some of my friends. Here's what that looked
+            like.
+        </p>
+        <p>Hinge lets users export their personal data and I crowdsourced these files from 4 female and male friends.
+            All my analysis below is based on data from these 8 people who have been using Hinge since at least the past
+            6 months. Most of them are based in either Mumbai or New York City. </p>
+
+        <p>First, I tried to test whether women get more matches than men do. Turns out, yes, and by quite a lot. The
+            men in my dataset, on average, sent a lot more likes than the women did, but in return, they received fewer
+            matches and even fewer converted to chats with more than 2 messages exchanged. Hinge also asks users whether
+            they went on a date with the person they matched and if they thought the person was their type.
+        </p>
+    </div>
+
+    <!-- Responsive iframe solution for ai2html -->
+
+    <!-- Generated by ai2html v0.121.1 - 2025-03-05 22:29 -->
+    <!-- ai file: new-template.ai -->
+    <style media="screen,print">
+        #g-new-template-box,
+        #g-new-template-box .g-artboard {
+            margin: 0 auto;
+        }
+
+        #g-new-template-box p {
+            margin: 0;
+        }
+
+        #g-new-template-box .g-aiAbs {
+            position: absolute;
+        }
+
+        #g-new-template-box .g-aiImg {
+            position: absolute;
+            top: 0;
+            display: block;
+            width: 100% !important;
+        }
+
+        #g-new-template-box .g-aiSymbol {
+            position: absolute;
+            box-sizing: border-box;
+        }
+
+        #g-new-template-box .g-aiPointText p {
+            white-space: nowrap;
+        }
+
+        #g-new-template-full {
+            position: relative;
+            overflow: hidden;
+        }
+
+        #g-new-template-full p {
+            font-family: arial, helvetica, sans-serif;
+            line-height: 17px;
+            opacity: 1;
+            letter-spacing: 0em;
+            font-size: 14px;
+            text-align: left;
+            color: rgb(0, 0, 0);
+            text-transform: none;
+            padding-bottom: 0;
+            padding-top: 0;
+            mix-blend-mode: normal;
+            font-style: normal;
+            font-weight: regular;
+            height: auto;
+            position: static;
+        }
+
+        #g-new-template-full .g-pstyle0 {
+            font-family: georgia, 'times new roman', times, serif;
+            font-weight: bold;
+            line-height: 27px;
+            font-size: 22px;
+        }
+
+        #g-new-template-full .g-pstyle1 {
+            line-height: 10px;
+            font-size: 8px;
+        }
+
+        #g-new-template-full .g-pstyle2 {
+            line-height: 10px;
+            font-size: 8px;
+            color: rgb(255, 255, 255);
+        }
+
+        #g-new-template-full .g-cstyle0 {
+            color: rgb(110, 70, 122);
+        }
+
+        #g-new-template-full .g-cstyle1 {
+            color: rgb(199, 173, 160);
+        }
+
+        #g-new-template-medium {
+            position: relative;
+            overflow: hidden;
+        }
+
+        #g-new-template-medium p {
+            font-weight: regular;
+            line-height: 48px;
+            height: auto;
+            opacity: 1;
+            letter-spacing: 0em;
+            font-size: 40px;
+            text-align: left;
+            color: rgb(0, 0, 0);
+            text-transform: none;
+            padding-bottom: 0;
+            padding-top: 0;
+            mix-blend-mode: normal;
+            font-style: normal;
+            position: static;
+        }
+
+        #g-new-template-medium .g-pstyle0 {
+            font-weight: 500;
+            line-height: 180px;
+            height: 180px;
+            font-size: 150px;
+            text-align: center;
+        }
+
+        #g-new-template-medium .g-pstyle1 {
+            font-weight: 500;
+            height: 48px;
+            text-align: center;
+        }
+
+        #g-new-template-medium .g-cstyle0 {
+            font-weight: 700;
+        }
+
+        #g-new-template-mobile {
+            position: relative;
+            overflow: hidden;
+        }
+
+        #g-new-template-mobile p {
+            font-family: arial, helvetica, sans-serif;
+            line-height: 7px;
+            height: auto;
+            opacity: 1;
+            letter-spacing: 0em;
+            font-size: 6px;
+            text-align: left;
+            color: rgb(136, 136, 136);
+            text-transform: none;
+            padding-bottom: 0;
+            padding-top: 0;
+            mix-blend-mode: normal;
+            font-style: normal;
+            font-weight: regular;
+            position: static;
+        }
+
+        #g-new-template-mobile .g-pstyle0 {
+            font-family: georgia, 'times new roman', times, serif;
+            font-weight: bold;
+            line-height: 18px;
+            height: 18px;
+            font-size: 15px;
+            color: rgb(0, 0, 0);
+        }
+
+        #g-new-template-mobile .g-pstyle1 {
+            line-height: 10px;
+            height: 10px;
+            font-size: 8px;
+            color: rgb(0, 0, 0);
+        }
+
+        #g-new-template-mobile .g-pstyle2 {
+            line-height: 8px;
+            height: 8px;
+            color: rgb(255, 255, 255);
+        }
+
+        #g-new-template-mobile .g-pstyle3 {
+            line-height: 8px;
+            height: 8px;
+            color: rgb(0, 0, 0);
+        }
+
+        #g-new-template-mobile .g-pstyle4 {
+            line-height: 8px;
+            height: 8px;
+            color: rgb(51, 51, 51);
+        }
+
+        #g-new-template-mobile .g-pstyle5 {
+            height: 7px;
+        }
+
+        #g-new-template-mobile .g-pstyle6 {
+            font-weight: 500;
+            height: 7px;
+        }
+
+        #g-new-template-mobile .g-cstyle0 {
+            color: rgb(110, 70, 122);
+        }
+
+        #g-new-template-mobile .g-cstyle1 {
+            color: rgb(199, 173, 160);
+        }
+
+        #g-new-template-mobile .g-cstyle2 {
+            font-weight: 500;
+        }
+    </style>
+    <div>
+        <object type="text/html" data="ai2html-output/new-template.html" width="100%" height="475px"
+            style="overflow: visible; border: none;"></object>
+    </div>
+
+    <div class="content">
+        <p>Based on this analysis, I also found that both genders went out with very few people. However, this data is
+            limited. For example, a user might have gone out with a match but not necessarily made a record of that on
+            the app.
+        </p>
+
+        <h2>An App Meant to be Uninstalled?</h2>
+        <p>For the longest time, Hinge has relied heavily on marketing itself as the app that is designed to be
+            uninstalled. The company's goal is for a user to meet a good match and no longer feel the need for the
+            app anymore. That is exactly what happened with one of my friends, Tithi Choudhary, who significantly
+            reduced her usage of the app after meeting a good match. A guy she really, really, liked. </p>
+
+        <iframe title="From Swipe to Swoon: How One Good Match Changed App Usage Patterns"
+            aria-label="Interactive line chart" id="datawrapper-chart-lUa1i"
+            src="https://datawrapper.dwcdn.net/lUa1i/3/" height="514" data-external="1"></iframe>
+
+        <p>However, a few months in, she was back at her regular usage levels. Brownie points for guessing what happened
+            there.
+        </p>
+
+        <h2>Somebody Felt the Valentine's Day Pressure
+        </h2>
+        <p>Another friend, Manav Somaiya, seems to have found a way to work around the scarce options that men claim
+            they get on the app: subscribing to Hinge premium. In a single day, Hinge does not let users send more than
+            8 likes. However, Hinge Premium users do not have this limit. By subscribing to the premium service for Rs
+            XX per month/year, Manav not only swiped a lot, but actually got more matches. In February alone, he sent
+            1200+ likes (for a user without Hinge Premium, the monthly limit would be around 240 likes). </p>
+
+        <iframe title="Men: Hinge Premium Might Be the Answer" aria-label="Interactive line chart"
+            id="datawrapper-chart-DggfC" src="https://datawrapper.dwcdn.net/DggfC/2/" height="460"
+            data-external="1"></iframe>
+
+        <p>Unsurprisingly, relative to the other men in my sample, Manav had a lot more matches in a month, specifically
+            82 matches, while the rest had an average of 8.
+        </p>
+        <p>So while women might have a clear edge on dating apps, men could possibly work around it and have some
+            amazing results.
+            As for Manav, I don't know for sure whether a Hinge subscription is going to help.</p>
+    </div>
+
+    <div class="footer">
+        <div class="content">
+            <p>You can find the code for this project <a
+                    href="https://github.com/hazel-gandhi/community-notes-analysis">here</a> and see my
+                other
+                projects <a href="https://hazel-gandhi.github.io">here.</a></p>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

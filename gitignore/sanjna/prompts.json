@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "prompt": "Instead of grabbing drinks, let\u2019s",
+        "type": "prompt_poll",
+        "options": [
+            "watch Babygirl before it leaves theatres on Thursday",
+            "watch Babygirl and yap over drinks after",
+            "watch Babygirl and then mutually ghost each other"
+        ],
+        "user_updated": "2025-01-23 13:51:39.448215",
+        "created": "2025-01-21 04:32:18.245268"
+    },
+    {
+        "id": 2,
+        "prompt": "Gender euphoria looks like",
+        "type": "text",
+        "text": "pegging.",
+        "user_updated": "2024-11-27 04:32:42.979056",
+        "created": "2024-11-26 03:59:05.787614"
+    },
+    {
+        "id": 3,
+        "prompt": "Two truths and a lie",
+        "type": "text",
+        "text": "I\u2019ve almost died four times.\nI had open stomach surgery.\nI used to have a pet rat.",
+        "user_updated": "2024-11-27 04:32:42.979056",
+        "created": "2024-11-26 03:59:05.787614"
+    },
+    {
+        "id": 4,
+        "prompt": "I won't shut up about",
+        "type": "text",
+        "text": "the value of homie hopping!!",
+        "user_updated": "2024-11-27 04:32:42.979056",
+        "created": "2024-11-26 03:59:05.787614"
+    },
+    {
+        "id": 5,
+        "prompt": "Guess my secret talent",
+        "type": "voice",
+        "media_url": "https://media.hingenexus.com/video/upload/x11ahwswk3n2kp0jzhlu.aac",
+        "user_updated": "2024-11-27 04:32:42.979056",
+        "created": "2024-11-26 04:02:44.819601"
+    }
+]

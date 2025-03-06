@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "prompt": "Best travel story",
+        "type": "text",
+        "text": "\"The Udaipur story\" swipe right to know more",
+        "user_updated": "2023-12-23 23:17:13.874593",
+        "created": "2023-12-23 23:09:40.842258"
+    },
+    {
+        "id": 2,
+        "prompt": "Best travel story",
+        "type": "text",
+        "text": "\"The Udaipur story\" like this to know more...",
+        "user_updated": "2024-11-15 15:01:29.981868",
+        "created": "2023-12-23 23:17:13.874593"
+    },
+    {
+        "id": 3,
+        "prompt": "Unusual skills",
+        "type": "text",
+        "text": "Can balance a badminton racket for all eternity ",
+        "user_updated": "2025-02-08 17:51:08.089249",
+        "created": "2023-12-23 23:06:46.063262"
+    },
+    {
+        "id": 4,
+        "prompt": "My simple pleasures",
+        "type": "text",
+        "text": "Sitting on a jhoola in a park",
+        "user_updated": "2025-02-08 17:51:08.089249",
+        "created": "2024-11-15 15:01:29.981868"
+    },
+    {
+        "id": 5,
+        "prompt": "A random fact I love is",
+        "type": "text",
+        "text": "Chicken tikka masala is the national dish of UK.",
+        "user_updated": "2025-02-08 17:51:08.089249",
+        "created": "2025-02-08 17:51:08.089249"
+    },
+    {
+        "id": 6,
+        "prompt": "I'm convinced that",
+        "type": "text",
+        "text": "Aliens are here, they are just waiting for the right time to take over",
+        "user_updated": "2025-02-21 06:52:05.007471",
+        "created": "2023-12-23 23:07:19.437519"
+    },
+    {
+        "id": 7,
+        "prompt": "Unusual skills",
+        "type": "text",
+        "text": "Can balance a badminton racket for all eternity",
+        "user_updated": "2025-02-21 06:52:05.007471",
+        "created": "2025-02-08 17:51:08.089249"
+    },
+    {
+        "id": 8,
+        "prompt": "I recently discovered that",
+        "type": "text",
+        "text": "There is a 2.5% chance the world will be hit by a large aestroid in 2032.",
+        "user_updated": "2025-02-21 06:52:05.007471",
+        "created": "2025-02-21 06:52:05.007471"
+    },
+    {
+        "id": 9,
+        "prompt": "I go crazy for",
+        "type": "text",
+        "text": "Jhulas, Jhulas and oh, Jhulas",
+        "user_updated": "2025-02-23 07:53:36.1192",
+        "created": "2025-02-21 06:52:05.007471"
+    },
+    {
+        "id": 10,
+        "prompt": "I go crazy for",
+        "type": "text",
+        "text": "Jhulas, sunsets and anything that helps me hit my protein goal",
+        "user_updated": "2025-02-23 07:53:36.1192",
+        "created": "2025-02-23 07:53:36.1192"
+    }
+]

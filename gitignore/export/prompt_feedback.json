@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2025-01-17 08:33:46.340235",
+        "hinge_prompt": "Unusual skills",
+        "hinge_prompt_answer": "Finding just the right song for the right moment",
+        "requested_feedback": "If you want to add more, consider sharing a memorable moment or asking about others' favorite songs."
+    },
+    {
+        "id": 2,
+        "timestamp": "2025-01-17 08:33:46.341483",
+        "hinge_prompt": "Together, we could",
+        "hinge_prompt_answer": "Get excited and confused looking at long menus",
+        "requested_feedback": "Try adding more detail to make it relatable! What's your go-to dish? It could spark a fun conversation!"
+    },
+    {
+        "id": 3,
+        "timestamp": "2025-01-17 08:33:46.464507",
+        "hinge_prompt": "We'll get along if",
+        "hinge_prompt_answer": "You\u2019re weirdly competitive in board games",
+        "requested_feedback": "If you want to add more, consider sharing a funny board game story to engage others!"
+    }
+]

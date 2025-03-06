@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "prompt": "Two truths and a lie",
+        "type": "text",
+        "text": "Yo hablo espa\u00f1ol. I like writing fiction. Burrito bowls are my favourite meal.",
+        "user_updated": "2024-07-08 09:23:05.122184",
+        "created": "2024-07-08 09:22:26.066947"
+    },
+    {
+        "id": 2,
+        "prompt": "The dorkiest thing about me is",
+        "type": "text",
+        "text": "I watched natgeo and discovery on tv so much as a kid, it gave me glasses in the first grade",
+        "user_updated": "2024-07-08 08:59:55.341988",
+        "created": "2023-12-16 22:00:13.944358"
+    },
+    {
+        "id": 3,
+        "prompt": "Two truths and a lie",
+        "type": "text",
+        "text": "Yo hablo espa\u00f1ol. I like writing fiction. Cheesecakes are my favourite dessert.",
+        "user_updated": "2025-01-16 08:18:42.413433",
+        "created": "2024-07-08 09:23:05.122184"
+    },
+    {
+        "id": 4,
+        "prompt": "To me, relaxation is",
+        "type": "text",
+        "text": "light an incense, roll a joint, cook and eat",
+        "user_updated": "2025-01-29 02:24:05.614467",
+        "created": "2025-01-16 08:26:43.515667"
+    },
+    {
+        "id": 5,
+        "prompt": "My Love Language is",
+        "type": "text",
+        "text": "Quality time, words of affirmation, and touch",
+        "user_updated": "2025-01-16 08:21:04.105595",
+        "created": "2024-09-28 19:12:04.09991"
+    },
+    {
+        "id": 6,
+        "prompt": "A random fact I love is",
+        "type": "text",
+        "text": "Bangalore's average elevation from sea level is higher than that of Dehradun!",
+        "user_updated": "2024-07-08 08:57:13.225704",
+        "created": "2023-12-16 21:59:28.930211"
+    },
+    {
+        "id": 7,
+        "prompt": "The one thing you should know about me is",
+        "type": "text",
+        "text": "I'm in two",
+        "user_updated": "2025-01-16 08:22:26.660589",
+        "created": "2025-01-16 08:21:44.801565"
+    },
+    {
+        "id": 8,
+        "prompt": "Together, we could",
+        "type": "text",
+        "text": "Head to the park to smoke a joint \ud83c\udf43",
+        "user_updated": "2025-01-16 08:19:19.986083",
+        "created": "2024-09-28 15:25:50.780473"
+    },
+    {
+        "id": 9,
+        "prompt": "Two truths and a lie",
+        "type": "text",
+        "text": "Yo hablo espa\u00f1ol. I like writing fiction. I'm a sucker for boba.",
+        "user_updated": "2025-01-16 08:23:40.888663",
+        "created": "2025-01-16 08:18:42.413433"
+    },
+    {
+        "id": 10,
+        "prompt": "A random fact I love is",
+        "type": "text",
+        "text": "A male duck is called a Drake \ud83e\udd14",
+        "user_updated": "2025-01-29 02:24:04.006763",
+        "created": "2025-01-29 02:23:58.996659"
+    },
+    {
+        "id": 11,
+        "prompt": "The one thing you should know about me is",
+        "type": "text",
+        "text": "I'm in two happy long distance relationships",
+        "user_updated": "2025-01-29 02:24:05.614467",
+        "created": "2025-01-16 08:22:26.660589"
+    },
+    {
+        "id": 12,
+        "prompt": "Together, we could",
+        "type": "text",
+        "text": "Explore an obscure museum, followed by a walk and something to drink",
+        "user_updated": "2025-01-16 08:26:57.968203",
+        "created": "2025-01-16 08:19:19.986083"
+    },
+    {
+        "id": 13,
+        "prompt": "My most controversial opinion is",
+        "type": "text",
+        "text": "Raising children ought to be a communal activity. Everybody owes kids kindness. ",
+        "user_updated": "2024-07-08 09:01:55.889955",
+        "created": "2024-07-08 08:59:55.341988"
+    },
+    {
+        "id": 14,
+        "prompt": "Together, we could",
+        "type": "text",
+        "text": "explore an obscure museum, followed by a walk and something to drink",
+        "user_updated": "2025-01-29 02:23:58.996659",
+        "created": "2025-01-16 08:26:57.968203"
+    },
+    {
+        "id": 15,
+        "prompt": "My most controversial opinion is",
+        "type": "text",
+        "text": "Pot may not be as safe and harmless as us potheads make it out to be",
+        "user_updated": "2024-09-28 19:09:52.799088",
+        "created": "2024-07-08 09:01:55.889955"
+    },
+    {
+        "id": 16,
+        "prompt": "Something that\u2019s non-negotiable for me is",
+        "type": "text",
+        "text": "open and honest communication with mutual respect",
+        "user_updated": "2024-07-08 09:25:00.090703",
+        "created": "2023-12-16 22:01:09.297601"
+    },
+    {
+        "id": 17,
+        "prompt": "I wind down by",
+        "type": "text",
+        "text": "Touching grass \ud83c\udf43 ",
+        "user_updated": "2024-07-08 09:05:39.616001",
+        "created": "2024-07-08 08:57:13.225704"
+    },
+    {
+        "id": 18,
+        "prompt": "Something that\u2019s non-negotiable for me is",
+        "type": "text",
+        "text": "Open, honest communication and mutual respect for agency ",
+        "user_updated": "2024-09-28 15:25:50.780473",
+        "created": "2024-07-08 09:25:00.090703"
+    },
+    {
+        "id": 19,
+        "prompt": "Two truths and a lie",
+        "type": "prompt_poll",
+        "options": [
+            "Yo hablo espa\u00f1ol",
+            "I like writing fiction ",
+            "I'm a sucker for boba"
+        ],
+        "user_updated": "2025-01-16 08:24:12.576359",
+        "created": "2025-01-16 08:24:12.576359"
+    },
+    {
+        "id": 20,
+        "prompt": "The way to win me over is",
+        "type": "text",
+        "text": "Tell good stories, be curious, and have a spine",
+        "user_updated": "2024-07-08 09:22:26.066947",
+        "created": "2024-07-08 09:05:39.616001"
+    }
+]

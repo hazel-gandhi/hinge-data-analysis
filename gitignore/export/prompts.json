@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "prompt": "We'll get along if",
+        "type": "text",
+        "text": "You\u2019re weirdly competitive in board games",
+        "user_updated": "2024-06-05 15:16:54.839232",
+        "created": "2024-06-05 15:16:54.839232"
+    },
+    {
+        "id": 2,
+        "prompt": "Unusual skills",
+        "type": "text",
+        "text": "Finding just the right song for the right moment",
+        "user_updated": "2024-06-05 15:16:54.839232",
+        "created": "2024-06-05 15:16:54.839232"
+    },
+    {
+        "id": 3,
+        "prompt": "Together, we could",
+        "type": "text",
+        "text": "Get excited and confused looking at long menus",
+        "user_updated": "2024-06-05 15:16:54.839232",
+        "created": "2024-06-05 15:16:54.839232"
+    }
+]
