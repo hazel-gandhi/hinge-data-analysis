@@ -1,6 +1,6 @@
 # Hinge Data Analysis
 
-**🔗 Link to project:**  
+**🔗 Link to project:**  https://hazel-gandhi.github.io/hinge-data-analysis/
 
 I asked 8 friends (4 male, 4 female) to share their Hinge data with me and analyzed it to do a gender analysis and things such as likes sent, likes received, matches, conversations and meetings.
 
