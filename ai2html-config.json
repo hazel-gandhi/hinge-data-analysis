@@ -1,0 +1,22 @@
+{
+    "fonts": [
+        {
+            "aifont": "FreightBigProBold-Regular",
+            "family": "freight-big-pro",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Mundial-Regular",
+            "family": "mundial",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "HelveticaNeue",
+            "family": "Helvetica Neue",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
