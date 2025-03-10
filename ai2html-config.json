@@ -11,12 +11,6 @@
             "family": "mundial",
             "weight": "700",
             "style": ""
-        },
-        {
-            "aifont": "HelveticaNeue",
-            "family": "Helvetica Neue",
-            "weight": "400",
-            "style": ""
         }
     ]
 }
